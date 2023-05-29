@@ -1,4 +1,5 @@
 # PDF Ühendaja
+<img src="example.png" alt="Näidisprogrammi kuva" style="width:170px; height:200px;">
 
 ## Sisukord
 1. [Projekti ülevaade](#projekti-ülevaade)
