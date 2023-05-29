@@ -1,4 +1,4 @@
-# PDF Ühendaja
+# PDF Merger
 
 Lihtsaim viis programmi käivitamiseks Windows masinas käivitada .exe fail:
 ```bash
