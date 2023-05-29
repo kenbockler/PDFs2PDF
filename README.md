@@ -1,4 +1,9 @@
 # PDF Ühendaja
+
+Lihtsaim viis programmi käivitamiseks Windows masinas käivitada .exe fail:
+```bash
+dist/PDFs2PDF_1.0.0.exe
+```
 <img src="example.png" alt="Näidisprogrammi kuva" style="width:170px; height:200px;">
 
 ## Sisukord
